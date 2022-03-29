@@ -148,6 +148,11 @@ p{
     text-align: center;
     margin-top: 100px;
 }
+@media screen and (max-width: 425px){
+    .footer h1{
+        width: 100%;
+    }
+}
 @media screen and (max-width: 768){
     .cv{
         width: 80vw;        
